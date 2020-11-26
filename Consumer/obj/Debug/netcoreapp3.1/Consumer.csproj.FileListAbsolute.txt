@@ -1,0 +1,7 @@
+C:\Users\guilhermepereira\source\repos\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.exe
+C:\Users\guilhermepereira\source\repos\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.csprojAssemblyReference.cache
+C:\Users\guilhermepereira\source\repos\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfoInputs.cache
+C:\Users\guilhermepereira\source\repos\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfo.cs
+C:\Users\guilhermepereira\source\repos\Consumer\Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\guilhermepereira\source\repos\Consumer\Consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\guilhermepereira\source\repos\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.CopyComplete
